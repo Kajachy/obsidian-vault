@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LF06/Kundengespräch.md",
+                "file": "Startseite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kundengespräch"
+              "title": "Startseite"
             }
           }
         ],
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LF06/Kundengespräch.md",
+                "file": "Startseite.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a77a407e09d050ee",
+  "active": "c574993e9a905b53",
   "lastOpenFiles": [
-    "Unbenannt.base",
     "LF06/Kundengespräch.md",
+    "Unbenannt.base",
     "Excalidraw/Drawing 2026-08-19 09.30.15.excalidraw.md",
     "docs/Pasted image 20260819093336.png",
     "Excalidraw",
