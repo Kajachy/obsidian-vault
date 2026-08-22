@@ -1,4 +1,8 @@
 {
   "cssTheme": "Minimal",
-  "translucency": true
+  "translucency": true,
+  "interfaceFontFamily": "Chalkboard SE",
+  "textFontFamily": "Chalkboard SE",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
 }

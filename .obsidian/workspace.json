@@ -18,17 +18,13 @@
             }
           },
           {
-            "id": "c574993e9a905b53",
+            "id": "37d47d55c7434845",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Startseite.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Startseite"
+              "title": "Neuer Tab"
             }
           }
         ],
@@ -169,7 +165,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Startseite.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,28 +194,37 @@
     "hiddenItems": {
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
+      "canvas:Neuen Canvas erstellen": true,
+      "daily-notes:Heutige Notiz öffnen": true,
+      "templates:Vorlage einfügen": true,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false,
+      "bases:Neue Base erstellen": true,
       "obsidian-excalidraw-plugin:New drawing": false,
       "draw-a-mermaid:Draw a Mermaid": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c574993e9a905b53",
+  "active": "6d5a9e648d3cc00e",
   "lastOpenFiles": [
+    "LF06/Eisberg-Modell.md",
+    "LF06/Üben für Test.md",
+    "LF06/Service-Level-Agreement (SLA).md",
+    "Englisch/Ergonomics.md",
+    "Englisch/Topics.md",
+    "PoWi/Rechtsgeschäfte.md",
+    "LF06/Transaktionsanalyse.md",
+    "LF06/Sender-Empfänger-Modell.md",
+    "PoWi",
+    "LF06/4-Ebenen-Modell.md",
+    "docs/ergonomics.png",
+    "docs/Pasted image 20260819093336.png",
+    "LF06/5-Axiome-Modell.md",
+    "Startseite.md",
+    "Englisch",
     "LF06/Kundengespräch.md",
     "Unbenannt.base",
     "Excalidraw/Drawing 2026-08-19 09.30.15.excalidraw.md",
-    "docs/Pasted image 20260819093336.png",
     "Excalidraw",
-    "LF06/Eisberg-Modell.md",
-    "LF06/4-Ebenen-Modell.md",
-    "LF06/5-Axiome-Modell.md",
-    "LF06/Service-Level-Agreement (SLA).md",
-    "LF06/Sender-Empfänger-Modell.md",
     "Unbenannt.canvas",
     "LF06/Insel-Modell.md",
     "docs/Eisberg-Modell.png",
@@ -228,7 +232,6 @@
     "docs/4-ebenen-modell.png",
     "Religion/Scientology.md",
     "Vorlagen/neues Thema.md",
-    "Startseite.md",
     "Religion",
     "Unbenannt.md",
     "LF01/Vollmachten.md",
@@ -242,20 +245,13 @@
     "docs/LF02/~$Angebote vergleichen.xlsx",
     "LF02/Peripherie-Geräte.md",
     "docs/LF02/Angebote vergleichen.xlsx",
-    "docs/LF02/LF2-angebote-vergleichen.xlsx",
     "LF02/Netzteile und Energiekosten.md",
     "docs/LF02/Netzteil Datenblatt.png",
     "docs/LF02/80 PLUS Zertifizierung.png",
     "docs/LF02/Stromfluss.png",
-    "docs/LF02",
     "docs/LF02/Peripherie-Geräte.png",
     "LF01/Anspruchsgruppen.md",
     "LF01/Markt.md",
-    "LF01/Rechtsformen.md",
-    "Angebotsmonopol.md",
-    "docs/LF01/Wertschöpfung EDEKA IT.png",
-    "LF01/Wertschöpfung.md",
-    "LF01/Unternehmensidentität & -philosophie.md",
-    "docs/Wertschöpfung EDEKA IT.png"
+    "docs/LF01/Wertschöpfung EDEKA IT.png"
   ]
 }
