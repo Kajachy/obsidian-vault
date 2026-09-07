@@ -11,24 +11,17 @@
             "id": "d6ef650e775e9f47",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
-            }
-          },
-          {
-            "id": "37d47d55c7434845",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "LF07/Grundlagen-Einstieg.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Grundlagen-Einstieg"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,6 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "LF07/Grundlagen-Einstieg.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,20 +198,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a77a407e09d050ee",
+  "active": "d6ef650e775e9f47",
   "lastOpenFiles": [
+    "LF07/CPS & IoT.md",
+    "docs/LF07/Nachschlagewerk.pdf",
+    "Englisch/Ergonomics.md",
+    "LF07/Grundlagen-Einstieg.md",
+    "PoWi/Rechtsgeschäfte.md",
+    "Religion/Scientology.md",
+    "Vorlagen/neues Thema.md",
+    "docs/LF07",
+    "docs/Englisch",
+    "docs/LF01/Leitbild, Kultur, Unternehmensziele.pdf",
+    "docs/LF06",
+    "LF07",
     "index.md",
     "LF06/Eisberg-Modell.md",
     "LF06/Üben für Test.md",
     "LF06/Service-Level-Agreement (SLA).md",
-    "Englisch/Ergonomics.md",
     "Englisch/Topics.md",
-    "PoWi/Rechtsgeschäfte.md",
     "LF06/Transaktionsanalyse.md",
     "LF06/Sender-Empfänger-Modell.md",
     "PoWi",
     "LF06/4-Ebenen-Modell.md",
-    "docs/ergonomics.png",
+    "docs/Englisch/ergonomics.png",
     "docs/Pasted image 20260819093336.png",
     "LF06/5-Axiome-Modell.md",
     "Startseite.md",
@@ -228,30 +232,19 @@
     "Excalidraw",
     "Unbenannt.canvas",
     "LF06/Insel-Modell.md",
-    "docs/Eisberg-Modell.png",
+    "docs/LF06/Eisberg-Modell.png",
     "LF01/Organisationsstruktur.md",
-    "docs/4-ebenen-modell.png",
-    "Religion/Scientology.md",
-    "Vorlagen/neues Thema.md",
-    "Religion",
-    "Unbenannt.md",
+    "docs/LF06/4-ebenen-modell.png",
     "LF01/Vollmachten.md",
-    "LF06",
-    "docs/LF01/Rechtsformen.pdf",
     "LF02/Kreditrechnung.md",
-    "LF03",
     "LF02/Angebote vergleichen.md",
     "LF02/Arbeitssicherheit.md",
     "docs/LF02/Angebote vergleichen.png",
-    "docs/LF02/~$Angebote vergleichen.xlsx",
     "LF02/Peripherie-Geräte.md",
-    "docs/LF02/Angebote vergleichen.xlsx",
-    "LF02/Netzteile und Energiekosten.md",
     "docs/LF02/Netzteil Datenblatt.png",
     "docs/LF02/80 PLUS Zertifizierung.png",
     "docs/LF02/Stromfluss.png",
     "docs/LF02/Peripherie-Geräte.png",
-    "LF01/Anspruchsgruppen.md",
     "docs/LF01/Wertschöpfung EDEKA IT.png"
   ]
 }
