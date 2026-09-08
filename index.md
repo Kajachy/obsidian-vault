@@ -3,7 +3,8 @@
 - #LF02
 - #LF06 
 - #LF07 
+- #LF08
+- #LF09
 - #Englisch 
 - #reli 
 - #PoWi 
-- test
