@@ -83,7 +83,7 @@ Statt Schlüsseln werden in meiner Arbeitsumgebung Transponder genutzt. So kann 
 
 ## QoS und LWT
 
-ToDo
+Für die Kommunikation der Türschlösser wird hauptsächlich QoS 1 verwendet, da Nachrichten wie erkannte Transponder, Zutrittsentscheidungen und Zutrittsprotokolle zuverlässig übertragen werden müssen. Mögliche Duplikate werden anhand einer Ereignis-ID bzw. der Kombination aus Transponder-ID und Zeitstempel erkannt. Für regelmäßig übertragene Statusmeldungen reicht QoS 0 aus, da der Verlust einer einzelnen Nachricht durch die nächste Statusmeldung ausgeglichen wird. Änderungen von Zugangsberechtigungen können aufgrund ihrer Sicherheitsrelevanz mit QoS 2 übertragen werden. Zusätzlich wird für jedes Türschloss ein LWT eingerichtet, das bei einem unerwarteten Verbindungsabbruch über das Topic `tuerschloss/<ID>/status` die Payload `offline` veröffentlicht. Dadurch kann die zentrale Überwachung erkennen, dass ein Türschloss nicht mehr erreichbar ist.
 
 ## Risiken
 

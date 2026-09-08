@@ -11,10 +11,14 @@
             "id": "d6ef650e775e9f47",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "type": "markdown",
+              "state": {
+                "file": "LF07/Fall1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fall1"
             }
           },
           {
@@ -23,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Ergonomics.md",
+                "file": "LF07/MQTT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ergonomics"
+              "title": "MQTT"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,18 +213,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d5a9e648d3cc00e",
+  "active": "2fe3b54554d5c648",
   "lastOpenFiles": [
-    "Vorlagen/neues Thema.md",
-    "LF07/Grundlagen-Einstieg.md",
     "Englisch/Ergonomics.md",
+    "LF07/Fall1.md",
+    "docs/LF07/Anwendungsfaelle_Mikrocontroller.pdf",
+    "docs/LF07/LF7_TW1_4_Anwendungsfaelle_Mikrocontroller.pdf",
+    "LF07/MQTT.md",
+    "LF07/Grundlagen-Einstieg.md",
+    "Vorlagen/neues Thema.md",
     "docs/LF07/MQTT_Tueroeffner.png",
     "docs/LF07/Topic_Tree_Klimabox.png",
     "docs/LF07/MQTT_Klimabox.png",
     "docs/LF07/CPS_Chancen_Risiken.png",
     "Excalidraw/IoT-Anforderungen.md",
     "LF07/CPS & IoT.md",
-    "LF07/MQTT.md",
     "LF07/QoS - Quality of Service.md",
     "Excalidraw/Ergebnisse",
     "Excalidraw/Ergebnisse/IoT-Anforderungen.png",
@@ -236,14 +244,12 @@
     "docs/Englisch",
     "docs/LF01/Leitbild, Kultur, Unternehmensziele.pdf",
     "docs/LF06",
-    "LF07",
     "LF06/Eisberg-Modell.md",
     "LF06/Üben für Test.md",
     "LF06/Service-Level-Agreement (SLA).md",
     "Englisch/Topics.md",
     "LF06/Transaktionsanalyse.md",
     "LF06/Sender-Empfänger-Modell.md",
-    "PoWi",
     "LF06/4-Ebenen-Modell.md",
     "docs/Englisch/ergonomics.png",
     "docs/Pasted image 20260819093336.png",
@@ -254,7 +260,6 @@
     "LF06/Insel-Modell.md",
     "docs/LF06/Eisberg-Modell.png",
     "LF01/Organisationsstruktur.md",
-    "LF01/Vollmachten.md",
-    "LF02/Kreditrechnung.md"
+    "LF01/Vollmachten.md"
   ]
 }
