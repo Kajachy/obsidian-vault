@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LF07/Grundlagen-Einstieg.md",
+                "file": "LF07/CPS & IoT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grundlagen-Einstieg"
+              "title": "CPS & IoT"
+            }
+          },
+          {
+            "id": "16365447172b0f41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LF07/CPS & IoT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CPS & IoT"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LF07/Grundlagen-Einstieg.md",
+                "file": "LF07/CPS & IoT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,12 +213,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6ef650e775e9f47",
+  "active": "16365447172b0f41",
   "lastOpenFiles": [
+    "LF07/Grundlagen-Einstieg.md",
     "LF07/CPS & IoT.md",
+    "LF07/QoS - Quality of Service.md",
+    "LF07/MQTT.md",
+    "Excalidraw/IoT-Anforderungen.md",
+    "Excalidraw/Ergebnisse",
+    "Excalidraw/Ergebnisse/IoT-Anforderungen.png",
+    "Excalidraw/IoT-Anwendungsbereiche.md",
+    "Excalidraw/Ergebnisse/IoT-Anwendungsbereiche.png",
+    "Excalidraw/Drawing 2026-09-08 08.02.16.excalidraw.png",
+    "Excalidraw/Libraries/local-library.excalidrawlib",
+    "Excalidraw/Libraries",
+    "index.md",
     "docs/LF07/Nachschlagewerk.pdf",
     "Englisch/Ergonomics.md",
-    "LF07/Grundlagen-Einstieg.md",
     "PoWi/Rechtsgeschäfte.md",
     "Religion/Scientology.md",
     "Vorlagen/neues Thema.md",
@@ -212,7 +238,6 @@
     "docs/LF01/Leitbild, Kultur, Unternehmensziele.pdf",
     "docs/LF06",
     "LF07",
-    "index.md",
     "LF06/Eisberg-Modell.md",
     "LF06/Üben für Test.md",
     "LF06/Service-Level-Agreement (SLA).md",
@@ -225,11 +250,7 @@
     "docs/Pasted image 20260819093336.png",
     "LF06/5-Axiome-Modell.md",
     "Startseite.md",
-    "Englisch",
     "LF06/Kundengespräch.md",
-    "Unbenannt.base",
-    "Excalidraw/Drawing 2026-08-19 09.30.15.excalidraw.md",
-    "Excalidraw",
     "Unbenannt.canvas",
     "LF06/Insel-Modell.md",
     "docs/LF06/Eisberg-Modell.png",
@@ -238,13 +259,8 @@
     "LF01/Vollmachten.md",
     "LF02/Kreditrechnung.md",
     "LF02/Angebote vergleichen.md",
-    "LF02/Arbeitssicherheit.md",
     "docs/LF02/Angebote vergleichen.png",
-    "LF02/Peripherie-Geräte.md",
     "docs/LF02/Netzteil Datenblatt.png",
-    "docs/LF02/80 PLUS Zertifizierung.png",
-    "docs/LF02/Stromfluss.png",
-    "docs/LF02/Peripherie-Geräte.png",
-    "docs/LF01/Wertschöpfung EDEKA IT.png"
+    "docs/LF02/80 PLUS Zertifizierung.png"
   ]
 }

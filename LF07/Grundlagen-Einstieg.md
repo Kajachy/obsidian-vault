@@ -9,22 +9,22 @@ Zugehörig zu:
 #LF07 #LF07-Grundlagen
 ___
 
-| Nummer | Thema                                                      | Sozialform | Zeit                |
-| ------ | ---------------------------------------------------------- | ---------- | ------------------- |
-| 00     | Startdiagnose und persönliches Wochenziel                  |            | Montag              |
-| 01     | Zwei CPS-Anwendungsfälle auswählen und analysieren         |            | Mittwoch            |
-| 02     | Vergleichskriterien festlegen und gewichten                |            | Mittwoch            |
-| 03     | Boards recherchieren und technische Daten vergleichen      |            | Donnerstag          |
-| 04     | KI prüfen, Entscheidungsmatrizen auswerten und entscheiden |            | Donnerstag          |
-| 05     | Grundbegriffe erklären und abgrenzen                       |            | Montag              |
-| 06     | IoT-Plattform und CPS-Anwendungsfelder visualisieren       |            | ~~Montag~~ Dienstag |
-| 07     | Einen gewählten Fall als CPS-Funktionsmodell darstellen    |            | ~~Montag~~ Dienstag |
-| 08     | Optimierungsziele, Chancen, Risiken und Schutzmaßnahmen    |            | Dienstag            |
-| 09     | Übertragungstechnologien vergleichen und auswählen         |            | Dienstag            |
-| 10     | MQTT-Prinzip und Topic-Struktur darstellen                 |            | Dienstag            |
-| 11     | QoS 0, 1 und 2 sowie LWT anwenden                          |            | Dienstag            |
-| 12     | MQTT-Anwendungsfall aus der Arbeitsumgebung                |            | Dienstag            |
-| 13     | e-Portfolio abschließen und Lernfortschritt reflektieren   |            | Freitag             |
+| Nummer | Thema                                                      | Verlinkung                   | Zeit                | Ready? |
+| ------ | ---------------------------------------------------------- | ---------------------------- | ------------------- | ------ |
+| 00     | Startdiagnose und persönliches Wochenziel                  |                              | Montag              | ✅      |
+| 01     | Zwei CPS-Anwendungsfälle auswählen und analysieren         |                              | Mittwoch            |        |
+| 02     | Vergleichskriterien festlegen und gewichten                |                              | Mittwoch            |        |
+| 03     | Boards recherchieren und technische Daten vergleichen      |                              | Donnerstag          |        |
+| 04     | KI prüfen, Entscheidungsmatrizen auswerten und entscheiden |                              | Donnerstag          |        |
+| 05     | Grundbegriffe erklären und abgrenzen                       | [[CPS & IoT]]                | Montag              | ✅      |
+| 06     | IoT-Plattform und CPS-Anwendungsfelder visualisieren       | [[CPS & IoT]]                | ~~Montag~~ Dienstag |        |
+| 07     | Einen gewählten Fall als CPS-Funktionsmodell darstellen    |                              | ~~Montag~~ Dienstag | ✅      |
+| 08     | Optimierungsziele, Chancen, Risiken und Schutzmaßnahmen    | [[CPS & IoT]]                | Dienstag            | ✅      |
+| 09     | Übertragungstechnologien vergleichen und auswählen         | [[MQTT]]                     | Dienstag            | ✅      |
+| 10     | MQTT-Prinzip und Topic-Struktur darstellen                 | [[MQTT]]                     | Dienstag            | ✅      |
+| 11     | QoS 0, 1 und 2 sowie LWT anwenden                          | [[QoS - Quality of Service]] | Dienstag            | ✅      |
+| 12     | MQTT-Anwendungsfall aus der Arbeitsumgebung                | [[MQTT]]                     | Dienstag            | ✅      |
+| 13     | e-Portfolio abschließen und Lernfortschritt reflektieren   |                              | Freitag             |        |
 
 
 | Kriterium                                                                                            | Eigenbewertung (0-3) | Faktor |

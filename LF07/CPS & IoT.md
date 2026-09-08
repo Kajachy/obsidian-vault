@@ -31,6 +31,11 @@ ___
 | **Ausfallfolgen**        | Produktionsstillstand oder Lieferverzögerungen -> Hohe finanzielle Schäden          | Komfort- oder Funktionsverlust, Eventuell Sicherheitsprobleme                                                   |
 | **Typische Komponenten** | Industrieroboter, SPS/PLC, CNC-Maschinen, MES/ERP-Systeme, Industrial Ethernet/IIoT | Smart-Lampen, Intelligente Thermostate, Bewegungs- und Türsensoren, Smart Speaker, Kameras, Smart-Home-Zentrale |
 
+# Unterschied CPS & IoT
+
+**CPS** verbindet die physische Welt mit digitalen Steuerungs- und Regelungssystemen, während **IoT** hauptsächlich die Vernetzung und den Datenaustausch von Geräten über ein Netzwerk beschreibt.
+
+
 # Wann ist ein vernetztes Gerät ein CPS
 
 - **Physische Komponente** auf die sich das System bezieht
@@ -39,3 +44,13 @@ ___
 - Digitale Komponenten können Daten mit anderen Systemen **austauschen**
 - Das System kann **auf die physische Welt einwirken**
 - Auswirkungen werden wieder **erfasst und können erneut verarbeitet** werden
+
+
+# Anforderungen an eine IoT-Plattform
+
+![[IoT-Anforderungen.png]]
+
+
+# IoT-Anwendungsbereiche
+
+![[IoT-Anwendungsbereiche.png]]
