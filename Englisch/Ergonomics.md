@@ -1,6 +1,6 @@
 ___
 Bestandteil folgender docs:
-- 
+- [[ergonomics.png]]
 
 Online-Links:
 - 

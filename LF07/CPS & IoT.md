@@ -49,8 +49,24 @@ ___
 # Anforderungen an eine IoT-Plattform
 
 ![[IoT-Anforderungen.png]]
-
+[[IoT-Anforderungen]]
 
 # IoT-Anwendungsbereiche
 
 ![[IoT-Anwendungsbereiche.png]]
+[[IoT-Anwendungsbereiche]]
+
+## Optimierungsziele, Chancen, Risiken und Schutzmaßnahmen
+
+### Optimierungsziele
+
+| Optimierungsziel             | Unterstützung durch CPS                                                                                              |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Senkung der Fehlerquote      | Durch das Einsetzen von Sensoren können mögliche Problemquellen in der Produktionsumgebung vorzeitig erkannt werden. |
+| Steigerung der Produktivität | Durch das Vernetzen von Maschinen und Sensoren können Produktionsschritte besser überwacht werden.                   |
+| Kosten reduzieren            | Die Optimierung von Abläufen kommt quasi immer mit einer Optimierung der Kosten                                      |
+|                              |                                                                                                                      |
+
+### Übersicht
+
+![[CPS_Chancen_Risiken.png]]

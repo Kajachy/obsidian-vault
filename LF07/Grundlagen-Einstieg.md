@@ -17,8 +17,8 @@ ___
 | 03     | Boards recherchieren und technische Daten vergleichen      |                              | Donnerstag          |        |
 | 04     | KI prüfen, Entscheidungsmatrizen auswerten und entscheiden |                              | Donnerstag          |        |
 | 05     | Grundbegriffe erklären und abgrenzen                       | [[CPS & IoT]]                | Montag              | ✅      |
-| 06     | IoT-Plattform und CPS-Anwendungsfelder visualisieren       | [[CPS & IoT]]                | ~~Montag~~ Dienstag |        |
-| 07     | Einen gewählten Fall als CPS-Funktionsmodell darstellen    |                              | ~~Montag~~ Dienstag | ✅      |
+| 06     | IoT-Plattform und CPS-Anwendungsfelder visualisieren       | [[CPS & IoT]]                | ~~Montag~~ Dienstag | ✅      |
+| 07     | Einen gewählten Fall als CPS-Funktionsmodell darstellen    |                              | ~~Montag~~ Dienstag |        |
 | 08     | Optimierungsziele, Chancen, Risiken und Schutzmaßnahmen    | [[CPS & IoT]]                | Dienstag            | ✅      |
 | 09     | Übertragungstechnologien vergleichen und auswählen         | [[MQTT]]                     | Dienstag            | ✅      |
 | 10     | MQTT-Prinzip und Topic-Struktur darstellen                 | [[MQTT]]                     | Dienstag            | ✅      |

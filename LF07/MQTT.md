@@ -45,6 +45,50 @@ ___
 | Vernetztes Fahrzeug          | **5G**      | hohe Datenrate + geringe Latenz                       |
 | Fitnessarmband               | **BLE**     | sehr geringer Energieverbrauch + Smartphone-Anbindung |
 
-# ToDo: A10 einfügen
+# Anwendungsfall
+
+## Beschreibung
+
+Ein Temperatursensor ist ein **Publisher** und sendet die **Payload** `22.5 °C` an das **Topic** `temperatur`. Der **Broker** empfängt die Nachricht und verteilt sie an alle **Subscriber**, die dieses Topic abonniert haben. Sowohl Publisher als auch Subscriber sind **Clients** vom Broker
+
+## Schaubild
+
+![[MQTT_Klimabox.png]]
+
+## Topics
+
+### Topics für die Klimabox
+
+| Topic                 | Hierachie                            |
+| --------------------- | ------------------------------------ |
+| Temperatur Fahrenheit | klimabox/standort/gerät/temperatur/f |
+| Temperatur Celsius    | klimabox/standort/gerät/temperatur/c |
+| Feuchtigkeit          | klimabox/standort/gerät/feuchtigkeit |
+
+![[Topic_Tree_Klimabox.png]]
+
+### Topic Abonnements
+
+|Beschreibung|Abonnement|
+|---|---|
+|Die Temperatur in Celsius für alle Geräte an Standort 1|klimabox/lager1/+/temperatur/+|
+|Alles von Gerät 1|klimabox/lager1/gerät1/#|
 
 
+# Anwendungsfall aus der Arbeitsumgebung
+
+Statt Schlüsseln werden in meiner Arbeitsumgebung Transponder genutzt. So kann unteranderem nachvollzogen werden, wer wann die Firma betreten hat. Die Daten können von Zuständigen überwacht werden. Für die Transponder gibt es an jeder Tür digitale Türschlösser. Diese haben einen RFID-Sensor sowie einen Motor um das Schloss zu öffnen als Aktor. Grenze des Systems ist beispielsweise der Diebstahl eines Transponders ohne die Sperrung dessen.
+
+![[MQTT_Tueroeffner.png]]
+
+## QoS und LWT
+
+ToDo
+
+## Risiken
+
+| Risiko                                            | Schutzmaßnahme                                               |
+| ------------------------------------------------- | ------------------------------------------------------------ |
+| Verlust vom Transponder                           | Schnelle Sperrung von Transpondern                           |
+| Falsche Konfiguration von Zugangsberechtigungen   | Konfiguration von festen Zugangsgruppen                      |
+| Schwachstellen um WLAN Netzwerk für die Schlösser | Regelmäßige Sicherheitsupdates und Überprüfung der Firewalls |
