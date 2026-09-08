@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LF07/Fall1.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fall1"
-            }
-          },
-          {
-            "id": "2fe3b54554d5c648",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LF07/MQTT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MQTT"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,13 +198,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2fe3b54554d5c648",
+  "active": "d6ef650e775e9f47",
   "lastOpenFiles": [
-    "Englisch/Ergonomics.md",
     "LF07/Fall1.md",
+    "index.md",
+    "LF07/MQTT.md",
+    "Englisch/Ergonomics.md",
     "docs/LF07/Anwendungsfaelle_Mikrocontroller.pdf",
     "docs/LF07/LF7_TW1_4_Anwendungsfaelle_Mikrocontroller.pdf",
-    "LF07/MQTT.md",
     "LF07/Grundlagen-Einstieg.md",
     "Vorlagen/neues Thema.md",
     "docs/LF07/MQTT_Tueroeffner.png",
@@ -236,7 +222,6 @@
     "Excalidraw/Drawing 2026-09-08 08.02.16.excalidraw.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
-    "index.md",
     "docs/LF07/Nachschlagewerk.pdf",
     "PoWi/Rechtsgeschäfte.md",
     "Religion/Scientology.md",
