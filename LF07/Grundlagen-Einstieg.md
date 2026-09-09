@@ -12,10 +12,10 @@ ___
 | Nummer | Thema                                                      | Verlinkung                   | Zeit                | Ready? |
 | ------ | ---------------------------------------------------------- | ---------------------------- | ------------------- | ------ |
 | 00     | Startdiagnose und persönliches Wochenziel                  |                              | Montag              | ✅      |
-| 01     | Zwei CPS-Anwendungsfälle auswählen und analysieren         |                              | Mittwoch            |        |
-| 02     | Vergleichskriterien festlegen und gewichten                |                              | Mittwoch            |        |
-| 03     | Boards recherchieren und technische Daten vergleichen      |                              | Donnerstag          |        |
-| 04     | KI prüfen, Entscheidungsmatrizen auswerten und entscheiden |                              | Donnerstag          |        |
+| 01     | Zwei CPS-Anwendungsfälle auswählen und analysieren         | [[Fall1]]                    | Mittwoch            | ✅      |
+| 02     | Vergleichskriterien festlegen und gewichten                | [[Fall1]]                    | Mittwoch            | ✅      |
+| 03     | Boards recherchieren und technische Daten vergleichen      | [[Fall1]]                    | Donnerstag          |        |
+| 04     | KI prüfen, Entscheidungsmatrizen auswerten und entscheiden | [[Fall1]]                    | Donnerstag          |        |
 | 05     | Grundbegriffe erklären und abgrenzen                       | [[CPS & IoT]]                | Montag              | ✅      |
 | 06     | IoT-Plattform und CPS-Anwendungsfelder visualisieren       | [[CPS & IoT]]                | ~~Montag~~ Dienstag | ✅      |
 | 07     | Einen gewählten Fall als CPS-Funktionsmodell darstellen    |                              | ~~Montag~~ Dienstag |        |
