@@ -45,6 +45,7 @@ Der Fall 1 unterscheidet sich in seinen zentralen Schwerpunkten deutlich von Fal
 
 
 # Gewichtung
+
 ## Kriterien- und Gewichtungstabelle
 
 | Kriterium                                        | Gewichtung | Begründung                                                                                              |

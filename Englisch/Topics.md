@@ -9,7 +9,7 @@ Zugehörig zu:
 #Englisch 
 ___
 
-# [[Ergonomics]] & Installing and Configuring hardware 
+# [[Ergonomics]] & [[installing and configuring hardware]] 
 - LF02
 - Moodle Test
 

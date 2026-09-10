@@ -11,9 +11,6 @@ ___
 
 # Was gibt es für Rechtsgeschäfte?
 
-
-
-
 # Arten
 ## einseitig
 - eine Willenserklärung reicht aus
@@ -63,10 +60,32 @@ ___
 - Fähigkeit Träger von Rechten & Pflichten zu sein
 - Rechtsfähigkeit einer natürlichen Person
 	- Beginn: bei vollständiger Trennung vom Mutterleib
+- BGB § 1
 
 
 # Geschäftsfähigkeit
-
+- Fähigkeit einer natürlichen Person, Rechtsgeschäfte wirksam abschließen zu können
+- Geschäfts-Unfähigkeit
+	- unter 7 Jahren
+	- dauerhafte Geistesstörung
+	- BGB § 104
+	- Rechtsgeschäfte sind nichtig
+- Geschäftsfähig
+	- BGB § 2
+	- über 18 Jahre
+- Beschränkt Geschäftsfähig
+	- BGB § 106
+	- 7 - 17 Jahre
+	- Rechtsgeschäfte sind schwebend unwirksam
+	- Gesetzliche Vertreter können zustimmen (dann wirksam) oder nicht zustimmen (dann unwirksam)
+	- Einwilligung --> vor Vertragsabschluss
+	- Genehmigung --> nach Vertragsabschluss
+	- Ausnahmen
+		- BGB § 110 - Taschengeld
+		- BGB § 107 - Rechtlicher Vorteil
+		- BGB § 112 - Erwerbsgeschäft
+		- BGB § 113 - Dienst-/Arbeitsverhältnis
+		- 
 
 
 

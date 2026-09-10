@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "620c4b3748e80f9c",
+        "id": "457dc1ac02b436c0",
         "type": "tabs",
         "children": [
           {
-            "id": "d6ef650e775e9f47",
+            "id": "f888e034a1db9950",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LF07/Fall1.md",
+                "file": "PoWi/Rechtsgeschäfte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fall1"
+              "title": "Rechtsgeschäfte"
             }
           }
         ]
@@ -198,13 +198,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6ef650e775e9f47",
+  "active": "f888e034a1db9950",
   "lastOpenFiles": [
-    "LF07/Grundlagen-Einstieg.md",
-    "LF07/Fall1.md",
-    "index.md",
-    "LF07/MQTT.md",
+    "Englisch/installing and configuring hardware.md",
+    "Englisch/Topics.md",
     "Englisch/Ergonomics.md",
+    "LF07/Fall 2.md",
+    "LF07/Fall1.md",
+    "LF07/MQTT.md",
+    "LF07/CPS & IoT.md",
+    "LF07/Grundlagen-Einstieg.md",
+    "index.md",
     "docs/LF07/Anwendungsfaelle_Mikrocontroller.pdf",
     "docs/LF07/LF7_TW1_4_Anwendungsfaelle_Mikrocontroller.pdf",
     "Vorlagen/neues Thema.md",
@@ -213,7 +217,6 @@
     "docs/LF07/MQTT_Klimabox.png",
     "docs/LF07/CPS_Chancen_Risiken.png",
     "Excalidraw/IoT-Anforderungen.md",
-    "LF07/CPS & IoT.md",
     "LF07/QoS - Quality of Service.md",
     "Excalidraw/Ergebnisse",
     "Excalidraw/Ergebnisse/IoT-Anforderungen.png",
@@ -232,7 +235,6 @@
     "LF06/Eisberg-Modell.md",
     "LF06/Üben für Test.md",
     "LF06/Service-Level-Agreement (SLA).md",
-    "Englisch/Topics.md",
     "LF06/Transaktionsanalyse.md",
     "LF06/Sender-Empfänger-Modell.md",
     "LF06/4-Ebenen-Modell.md",
@@ -244,7 +246,6 @@
     "Unbenannt.canvas",
     "LF06/Insel-Modell.md",
     "docs/LF06/Eisberg-Modell.png",
-    "LF01/Organisationsstruktur.md",
-    "LF01/Vollmachten.md"
+    "LF01/Organisationsstruktur.md"
   ]
 }

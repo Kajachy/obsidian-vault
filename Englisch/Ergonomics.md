@@ -8,6 +8,7 @@ Online-Links:
 Zugehörig zu:
 #Englisch
 ___
+
 # health problems associated with computers
 - aching hands, shoulders, back or head
 - RSI
@@ -51,3 +52,42 @@ Secondly I want to notice that we have just two options. Either have the blinds 
 Thanks for you attention.
 
 Sincerely Tim
+
+
+# Worksheet
+
+**Part 1: Vocabulary Match**
+
+Match the words with their correct definitions.
+
+|**Word**|**Definition**|
+|---|---|
+|1. Posture|a) A support for your feet|
+|2. Monitor|b) The way you sit or stand|
+|3. Footrest|c) A short interruption from work|
+|4. Glare|d) The computer screen|
+|5. Break|e) Bright light that makes it hard to see|
+
+**Your answers:** 1 → b 2 → d 3 → a 4 → e 5 → c
+
+**Part 2: Ergonomic Tips – Fill in the blanks**
+
+Complete the sentences:
+
+1. Sit straight with your back supported.
+2. The top of your monitor should be at eye-level.
+3. Avoid screen glare/reflexion by adjusting lighting.
+4. Keep your keyboard and mouse close to your body.
+5. Take breaks and stretch your body regularly.
+
+**Part 3: Reflection**
+
+Answer the question in 2–3 sentences: **Why is ergonomics important for IT professionals?**
+
+Ergonomics are important for IT professionals because they are sitting in front of the monitor the whole day and wrong ergonomics could ruin their backs, eyes, etc. very strong.
+
+**Part 4: Short Answer**
+
+Answer the question in 2–3 sentences: **What can happen if you ignore ergonomic principles at your desk?**
+
+You can get back problems, eye problems or anything else.
