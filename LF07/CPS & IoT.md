@@ -56,6 +56,24 @@ ___
 ![[IoT-Anwendungsbereiche.png]]
 [[IoT-Anwendungsbereiche]]
 
+# Einen gewählten Fall als CPS-Funktionsmodell darstellen
+
+![[CPS_Beispiel.png]]
+
+## Normalfall
+
+Alle Werte befinden sich im Abdeckungsbereich der Sensoren.
+
+## Grenzfall
+
+Die Temperatur ist nahe dem Grenzwert des Temperatursensor (-20/+200 C°).  
+Beispielsensor: [https://www.testo-sensor.shop/de/pt100-1-3-klasse-b](https://www.testo-sensor.shop/de/pt100-1-3-klasse-b "https://www.testo-sensor.shop/de/pt100-1-3-klasse-b")
+
+## Fehlerfall
+
+Der Luftdrucksensor ist kaputt und liefert falsche Daten.
+
+
 ## Optimierungsziele, Chancen, Risiken und Schutzmaßnahmen
 
 ### Optimierungsziele
@@ -66,7 +84,6 @@ ___
 | Steigerung der Produktivität | Durch das Vernetzen von Maschinen und Sensoren können Produktionsschritte besser überwacht werden.                   |
 | Kosten reduzieren            | Die Optimierung von Abläufen kommt quasi immer mit einer Optimierung der Kosten                                      |
 |                              |                                                                                                                      |
-
 ### Übersicht
 
 ![[CPS_Chancen_Risiken.png]]

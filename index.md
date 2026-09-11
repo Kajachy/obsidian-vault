@@ -3,7 +3,7 @@
 - #LF02
 - #LF06 
 - #LF07 
-	- [[Grundlagen-Einstieg]]
+	- [[Grundlagen-Home]]
 - #LF08
 - #LF09
 - #Englisch 
