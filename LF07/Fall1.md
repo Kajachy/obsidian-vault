@@ -1,6 +1,6 @@
 ___
 Bestandteil folgender docs:
-- [[Nachschlagewerk.pdf]]
+- [[docs/LF07/Nachschlagewerk.pdf]]
 - [[Anwendungsfaelle_Mikrocontroller.pdf]]
 
 Online-Links:

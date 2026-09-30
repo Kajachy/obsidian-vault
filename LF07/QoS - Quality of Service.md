@@ -1,6 +1,6 @@
 ___
 Bestandteil folgender docs:
-- [[Nachschlagewerk.pdf]]
+- [[docs/LF07/Nachschlagewerk.pdf]]
 - [[MQTT]]
 
 Online-Links:
