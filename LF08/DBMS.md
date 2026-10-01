@@ -10,7 +10,19 @@ Zugehörig zu:
 #LF08 #LF08-Grundlagen
 ___
 
-# Verbindung & Version prüfen
+# Version prüfen & Datenbanken
+
+`SELECT VERSION();`
+--> gibt mySQL Version zurück
+
+`SHOW DATABASES;`
+--> zeigt alle Datenbanken
+
+`CREATE DATABASE name;`
+--> Erstellt Datenbank
+
+`DROP DATABASE name;`
+--> Löscht Datenbank
 
 ``` sql
 
@@ -72,4 +84,3 @@ mysql> SHOW DATABASES;
 
 
 ```
-

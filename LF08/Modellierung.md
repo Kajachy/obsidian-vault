@@ -52,7 +52,7 @@ ___
 
 # ER-Diagramm
 
-![[ER-Diagramm]]
+![[ER-Diagramm.png]]
 
 ## Prüfsatz 1
 
@@ -69,3 +69,4 @@ ___
 ![[EER-Diagramm.png]]
 
 
+ToDo: Fehlt hier noch etwas?

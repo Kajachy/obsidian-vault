@@ -218,7 +218,7 @@ Query OK, 0 rows affected (0,01 sec)
 
 # Rechte entziehen
 
-`REVOKE SELECT ON db.table FROM 'name'@'localhost'`
+`REVOKE SELECT ON db.table FROM 'name'@'localhost';`
 --> entzieht User Berechtigung SELECT
 
 ```sql
@@ -246,7 +246,7 @@ mysql> SHOW GRANTS FOR 'test'@'localhost';
 
 # User entfernen
 
-`DROP USER 'name'@'localhost'`
+`DROP USER 'name'@'localhost';`
 --> User löschen
 
 ```sql

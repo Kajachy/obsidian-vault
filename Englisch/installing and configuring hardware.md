@@ -88,3 +88,71 @@ of static. Don't wear synthetic clothing as this also creates static.
 - Storage in and connect
 - Fans in and connect
 - close case
+
+
+# Summary video
+
+1. **How many and which core components should a gaming PC have?**  
+    A gaming PC should have **8 core components**:
+    - CPU
+    - CPU cooler
+    - Motherboard
+    - RAM
+    - Storage (SSD/HDD)
+    - Graphics card (GPU)
+    - Power supply (PSU)
+    - PC case
+    
+2. **Is there a fixed order to build a gaming PC?**  
+    No, there is **no fixed order**. However, there are certain steps that make the building process easier.
+    
+3. **Which components does James start with?**  
+    He starts with the **CPU, motherboard and RAM**.
+    
+4. **What should you do with the antistatic bag which your motherboard might be packaged in?**  
+    You should **not place the motherboard on the antistatic bag**, because the outside can be conductive. It is better to put it on the **motherboard box**.
+    
+5. **What is the most risky part of building any gaming PC?**  
+    **Installing the CPU**, especially putting it into the CPU socket.
+    
+6. **How should you open the CPU socket for a good result?**  
+    Lift the **retention arm** and open the CPU socket carefully.
+    
+7. **What is there on the bottom left-hand corner of the chip to correspond with the socket?**  
+    There is a **small triangle** on the CPU that corresponds with a triangle on the socket.
+    
+8. **Which two RAM slots do you need?**  
+    Usually the **second and fourth slots from the CPU** (A2 and B2).
+    
+9. **What type of cooler is the main type in a high-end build? What’s the major advantage of it? What’s the disadvantage?**  
+    A **liquid cooler / all-in-one (AIO) cooler** is common in high-end builds.
+    - Advantage: **better cooling performance and lower temperatures**
+    - Disadvantage: **more expensive and more complicated to install**, with more potential points of failure.
+        
+10. **What is delivered with every cooler?**  
+    **Thermal paste** is included, either already applied or supplied separately.
+    
+11. **What is less complicated, installing the cooler before or after putting the motherboard into the case?**  
+    Installing the **cooler before putting the motherboard into the case** is usually easier.
+    
+12. **What is your PC building experience hugely dependent on?**  
+    It depends heavily on **the case and how much space it provides for working inside it**.
+    
+13. **What should you do before installing the motherboard into the case and why?**  
+    You should install components such as the **CPU, RAM and cooler beforehand**, because it is easier to access them outside the case.
+    
+14. **Which cables do you need for the power supply installation?**  
+    You need:
+    - **24-pin motherboard cable**
+    - **8-pin CPU/EPS cable**
+    - **PCIe cables for the graphics card**
+    - **SATA power cables**, if required
+        
+15. **What is the last step of the installation?**  
+    The last step is to **connect all remaining cables and check that everything is properly connected** before starting the PC.
+    
+16. **What do you have to remove for installing the graphics card?**  
+    You have to remove the appropriate **PCIe slot covers** from the back of the case.
+    
+17. **Give your opinion about the video.**  
+    **The video is easy to understand and gives a good overview of how to build a gaming PC. The steps are explained clearly and are especially suitable for beginners. The video is also useful because it shows the individual components and explains important things to pay attention to.**
