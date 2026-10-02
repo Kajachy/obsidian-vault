@@ -19,7 +19,7 @@ ___
 | 02     | Modellierung       | [[Modellierung]]              | Montag     | ✅      |
 | 03     | DBMS               | [[DBMS]]                      | Dienstag   | ✅      |
 | 04     | DB aufbauen        | [[SQL]]                       | Dienstag   | ✅      |
-| 05     | Mit Daten arbeiten | [[SQL]]                       | Dienstag   |        |
+| 05     | Mit Daten arbeiten | [[SQL]]                       | Dienstag   | ✅      |
 | 06     | Rechte             | [[Benutzer & Berechtigungen]] | Donnerstag | ✅      |
 |        | Zusammenfassung    | [[Zusammenfassung]]           | x          | ✅      |
 
