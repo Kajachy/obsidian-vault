@@ -43,3 +43,28 @@ ___
 | Ich kann fünf Testartikel anlegen, sechs SELECT-Abfragen mit COUNT oder AVG prüfen, UPDATE/DELETE durch Vorher-Nachher-Vergleiche belegen sowie drei Fehlerfälle analysieren und die Anweisungen korrigieren.                   | 2                           | 3                           |
 | Ich kann ein Schema mit CREATE/ALTER TABLE umsetzen, fünf Rohskriptbefunde prüfen, Daten geordnet importieren und Testdaten entfernen sowie Zeilenzahlen, drei Verkaufsfälle und gültige und ungültige Integritätsfälle prüfen. | 2                           | 3                           |
 | Ich kann drei Rollen mit CREATE USER, GRANT, REVOKE und DROP USER umsetzen, Konten und Rechte mit SHOW GRANTS, SHOW CREATE USER und Systemabfragen prüfen sowie je Rolle zwei erlaubte und zwei verbotene Befehle testen.       | 1                           | 3                           |
+
+
+# Fazit der Woche
+
+**Gut lief:**
+
+- Die **Normalisierung bis zur 3NF** hat gut funktioniert.
+- **Entitäten, Attribute, Primärschlüssel und Beziehungen** konnte ich im Modell erkennen.
+- Die Unterschiede zwischen **ER und EER** sowie die **Chen-Notation** konnte ich nachvollziehen.
+- **1:n- und n:m-Beziehungen** und deren Umsetzung mit Fremdschlüsseln bzw. Zwischentabellen wurden verständlicher.
+- Bei der aktuellen SQL-Prüfung konnte ich bereits sinnvolle Punkte wie **Primärschlüssel, Fremdschlüssel und Datentypen** erkennen.
+    
+
+**Schwierig lief:**
+
+- Bei **JOINs** fehlte zunächst das Wissen.
+- Bei EER-Diagrammen kamen Missverständnisse auf, die sich nachträglich auf das Datenbank Design auswirkten.
+    
+
+**Nächstes Mal würde ich:**
+
+1. Zuerst **Entitäten und Beziehungen eindeutig festlegen**.
+2. Bei jeder Beziehung bewusst prüfen: **1:1, 1:n oder n:m?**
+3. Bei SQL besonders auf **`JOIN ... ON`**, Datentypen, `NOT NULL`, PKs und FKs achten.
+4. Das fertige Modell anschließend noch einmal gegen die **fachlichen Anforderungen** prüfen, bevor ich SQL daraus erstelle.
