@@ -21,6 +21,7 @@ ___
 | 04     | DB aufbauen        | [[SQL]]                       | Dienstag   | ✅      |
 | 05     | Mit Daten arbeiten | [[SQL]]                       | Dienstag   |        |
 | 06     | Rechte             | [[Benutzer & Berechtigungen]] | Donnerstag | ✅      |
+|        | Zusammenfassung    | [[Zusammenfassung]]           | x          | ✅      |
 
 
 

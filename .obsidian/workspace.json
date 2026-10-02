@@ -39,15 +39,18 @@
             "id": "3539b1853e861e19",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "docs/LF08/Aufgabenpaket_4_SQL.pdf"
+                "file": "LF08/Grundlagen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Aufgabenpaket_4_SQL"
+              "icon": "lucide-file",
+              "title": "Grundlagen"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,8 +108,7 @@
               "title": "Lesezeichen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,14 +242,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88b892fe857cc0ce",
+  "active": "3539b1853e861e19",
   "lastOpenFiles": [
-    "LF08/Normalisierung.md",
     "LF08/Zusammenfassung.md",
     "docs/LF08/Aufgabenpaket_4_SQL.pdf",
+    "LF08/SQL.md",
+    "LF08/Normalisierung.md",
     "LF08/Modellierung.md",
     "docs/LF08/Aufgabenpaket_2_Modellierung.pdf",
-    "LF08/SQL.md",
     "docs/LF08/EER-Diagramm.png",
     "docs/LF08/EER-Diagramm.png",
     "LF08/Benutzer & Berechtigungen.md",
