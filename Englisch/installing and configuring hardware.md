@@ -156,3 +156,6 @@ of static. Don't wear synthetic clothing as this also creates static.
     
 17. **Give your opinion about the video.**  
     **The video is easy to understand and gives a good overview of how to build a gaming PC. The steps are explained clearly and are especially suitable for beginners. The video is also useful because it shows the individual components and explains important things to pay attention to.**
+
+
+Tim & Lasse - DNS
