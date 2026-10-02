@@ -35,7 +35,7 @@ ___
 	- unterscheiden in Herkunft (natürlich und künstlich)
 
 ## Diagramm-Arten
-- ER-Diagramm
+- **ER-Diagramm**
 	- zeigt Entitäten, Attribute & Beziehungen
 	- beschreibt Aufbau einer Datenbank auf fachlicher Ebene
 	- Chen-Notation
@@ -45,8 +45,11 @@ ___
 		- Ellipse = Attribut
 		- Unterstrichenes Attribut = Primärschlüssel
 		- Linie = Verbindung
-- EER-Diagramm
+- **EER-Diagramm**
 	- Erweiterung des ER-Diagramms
+	- löst n:m Beziehungen auf
+	- zeigt Primär- & Fremdschlüssel auf
+	- zeigt Datentypen auf
 	- zeigt zusätzlich Spezialisierungen, Vererbungen, Generalisierungen, Untertypen/Obertypen & komplexere Beziehungen
 
 

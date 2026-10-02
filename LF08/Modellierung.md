@@ -68,5 +68,12 @@ ___
 
 ![[EER-Diagramm.png]]
 
+| Kriterium                 | Übereinstimmung | Abweichung |
+| ------------------------- | --------------- | ---------- |
+| 6 Tabellen                |                 | X          |
+| N:M-Beziehungen           |                 | X          |
+| Alle Attribute inklodiert | X               |            |
 
-ToDo: Fehlt hier noch etwas?
+
+Info:
+Dieses EER-Diagramm stellt nicht das restliche Projekt dar. Aufgrund von einem Fehler wurde es im nach hinein angepasst.

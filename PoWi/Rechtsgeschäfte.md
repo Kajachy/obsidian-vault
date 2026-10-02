@@ -96,17 +96,4 @@ ___
 
 # Vertagsarten
 
-|                              | Vertragsname              | Rechtsgrundlage | Vertragspartner                           | Vertragsinhalte                                                             | Kennzeichen                              |
-| ---------------------------- | ------------------------- | --------------- | ----------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------- |
-| Veräußerungsvertag           | **Kaufvertrag**           | §§ 433 ff. BGB  | Käufer ↔ Verkäufer                        | Verkäufer übergibt und übereignet Sache; Käufer zahlt Kaufpreis             | **Sache gegen Geld**                     |
-|                              | **Schenkungsvertrag**     | §§ 516 ff. BGB  | Schenker ↔ Beschenkter                    | Unentgeltliche Übertragung eines Vermögensgegenstands                       | **Keine Gegenleistung**                  |
-| Gebrauchsüberlassungsvertrag | **Leihvertrag**           | §§ 598 ff. BGB  | Verleiher ↔ Entleiher                     | Sache wird kostenlos zum Gebrauch überlassen und anschließend zurückgegeben | **Kostenlose Nutzung**                   |
-|                              | **Mietvertrag**           | §§ 535 ff. BGB  | Vermieter ↔ Mieter                        | Vermieter überlässt Sache zur Nutzung; Mieter zahlt Miete                   | **Nutzung gegen Entgelt**                |
-|                              | **Pachtvertrag**          | §§ 581 ff. BGB  | Verpächter ↔ Pächter                      | Nutzung einer Sache + Recht, Erträge daraus zu ziehen                       | **Nutzung + Erträge**                    |
-|                              | **Darlehensvertrag**      | §§ 488 ff. BGB  | Darlehensgeber ↔ Darlehensnehmer          | Geld wird überlassen und später zurückgezahlt; ggf. mit Zinsen              | **Geld gegen Rückzahlung**               |
-| Tätigkeitsvertrag            | **Dienstvertrag**         | §§ 611 ff. BGB  | Dienstberechtigter ↔ Dienstverpflichteter | Dienstverpflichteter erbringt vereinbarte Tätigkeit; Vergütung wird gezahlt | **Tätigkeit, kein bestimmter Erfolg**    |
-|                              | **Werkvertrag**           | §§ 631 ff. BGB  | Besteller ↔ Unternehmer                   | Unternehmer stellt ein Werk her bzw. erzielt einen bestimmten Erfolg        | **Konkreter Erfolg geschuldet**          |
-|                              | **Werklieferungsvertrag** | § 650 BGB       | Besteller ↔ Unternehmer                   | Unternehmer stellt eine bewegliche Sache her und liefert sie                | **Herstellung + Lieferung einer Sache**  |
-|                              | **Pauschalreisevertrag**  | §§ 651a ff. BGB | Reisender ↔ Reiseveranstalter             | Veranstalter erbringt mehrere Reiseleistungen gegen Zahlung                 | **Kombination mehrerer Reiseleistungen** |
-
-
+![[Vertragsarten.pdf]]

@@ -106,8 +106,6 @@ CONSTRAINT fk_order_salesdepartment
 
 # Testdaten einfügen
 
-ToDo: Falschen Fremdschlüssel in code above fixen
-
 ```sql
 USE TWOne;
 
@@ -309,6 +307,14 @@ SET Price = 29.99
 WHERE ArticleId = 1;
 ```
 
-# Vergleich mit Anderen
+# Prüfen von anderen Lösungen
 
-ToDo: noch erledigen am Freitag (letzte bei AP 4)
+| Prüfpunkt                         | Bewertung | Begründung                                                                                           |
+| --------------------------------- | --------- | ---------------------------------------------------------------------------------------------------- |
+| Primärschlüssel                   | ✅ Erfüllt | `verkaeufer_id`, `kunden_nr` und `artikel_nr` sind jeweils als `PRIMARY KEY` definiert.              |
+| Fremdschlüssel Kunde → Verkäufer  | ✅ Erfüllt | `verkaeufer_id` verweist korrekt auf `verkaeufer(verkaeufer_id)`.                                    |
+| Fremdschlüssel Zwischentabelle    | ✅ Erfüllt | `artikel_nr` und `kunden_nr` verweisen auf die jeweiligen Tabellen.                                  |
+| Zusammengesetzter Primärschlüssel | ✅ Erfüllt | `PRIMARY KEY(artikel_nr, kunden_nr)` verhindert doppelte Kombinationen.                              |
+| Preis-Datentyp                    | ❌ Mangel  | `preis float` ist für Geldbeträge ungeeignet. Besser `DECIMAL(10,2)`.                                |
+| Pflichtfelder                     | ❌ Mangel  | Viele Spalten sind automatisch nullable, z. B. `name`, `vorname` und `preis`. Falls diese. Es NULL`. |
+
