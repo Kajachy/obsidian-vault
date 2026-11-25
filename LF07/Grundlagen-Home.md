@@ -16,10 +16,10 @@ ___
 | Nummer | Thema                                                      | Verlinkung                              | Zeit                | Ready? |
 | ------ | ---------------------------------------------------------- | --------------------------------------- | ------------------- | ------ |
 | 00     | Startdiagnose und persönliches Wochenziel                  | [[Grundlagen-Home#Einstieg]]            | Montag              | ✅      |
-| 01     | Zwei CPS-Anwendungsfälle auswählen und analysieren         | [[Fall1]] & [[Fall 2]]                  | Mittwoch            | ✅      |
-| 02     | Vergleichskriterien festlegen und gewichten                | [[Fall1]] & [[Fall 2]]                  | Mittwoch            | ✅      |
-| 03     | Boards recherchieren und technische Daten vergleichen      | [[Fall1]] & [[Fall 2]]                  | Donnerstag          | ✅      |
-| 04     | KI prüfen, Entscheidungsmatrizen auswerten und entscheiden | [[Fall1]] & [[Fall 2]]                  | Donnerstag          | ✅      |
+| 01     | Zwei CPS-Anwendungsfälle auswählen und analysieren         | [[Fall 1]] & [[Fall 2]]                  | Mittwoch            | ✅      |
+| 02     | Vergleichskriterien festlegen und gewichten                | [[Fall 1]] & [[Fall 2]]                  | Mittwoch            | ✅      |
+| 03     | Boards recherchieren und technische Daten vergleichen      | [[Fall 1]] & [[Fall 2]]                  | Donnerstag          | ✅      |
+| 04     | KI prüfen, Entscheidungsmatrizen auswerten und entscheiden | [[Fall 1]] & [[Fall 2]]                  | Donnerstag          | ✅      |
 | 05     | Grundbegriffe erklären und abgrenzen                       | [[CPS & IoT]]                           | Montag              | ✅      |
 | 06     | IoT-Plattform und CPS-Anwendungsfelder visualisieren       | [[CPS & IoT]]                           | ~~Montag~~ Dienstag | ✅      |
 | 07     | Einen gewählten Fall als CPS-Funktionsmodell darstellen    | [[CPS & IoT]]                           | ~~Montag~~ Dienstag | ✅      |
