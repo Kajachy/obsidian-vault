@@ -41,6 +41,22 @@ jobs:
           sed -i 's|^\(\s*locale:\).*|\1 de-DE|' quartz.config.yaml
           sed -i 's|^\(\s*pageTitle:\).*|\1 "Tims E-Portfolio"|' quartz.config.yaml
 
+      - name: Sortierung nach Titel
+        run: |
+          cat > quartz.ts << 'EOF'
+          import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
+          import { componentRegistry } from "./quartz/components/registry"
+
+          const byTitle = (f1: any, f2: any) => (f1.frontmatter?.title ?? "").localeCompare(f2.frontmatter?.title ?? "", "de", { numeric: true })
+
+          componentRegistry.setOptionOverrides("@quartz-community/tag-page", { sort: byTitle })
+          componentRegistry.setOptionOverrides("@quartz-community/folder-page", { sort: byTitle })
+
+          const config = await loadQuartzConfig()
+          export default config
+          export const layout = await loadQuartzLayout()
+          EOF
+
       - run: npm ci
       - run: npx quartz plugin install --from-config
       - run: npx quartz build
