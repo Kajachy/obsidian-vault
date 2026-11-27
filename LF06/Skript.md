@@ -172,7 +172,7 @@ A hat die Situation gelöst, weil er bei der Sache geblieben ist und nicht auf d
 
 Eines können wir daraus mitnehmen: Im IT-Service geht es nicht darum, dass am Ende alle zufrieden sind. Es geht darum, den Service wiederherzustellen und professionell zu bleiben. Beim nächsten Mal würden wir die Standardschritte kürzen, sobald klar ist, dass viele Anwender betroffen sind. Danke fürs Zuschauen!
 
-## ToDos:
+## Noch zutun:
 
 - [ ] Rollen A und B sowie Sprecher festlegen
 - [ ] Modelle um eins ergänzen
