@@ -1,3 +1,18 @@
+___
+Bestandteil folgender docs:
+- [Sender-Empfänger-Modell](Sender-Empfänger-Modell)
+- [4-Ebenen-Modell](4-Ebenen-Modell)
+- [5 Axiome der Kommunikation](5-Axiome-Modell)
+- [Eisberg-Modell](Eisberg-Modell)
+- [Insel-Modell](Insel-Modell)
+
+Online-Links:
+- 
+
+Zugehörig zu:
+#LF06 
+___
+
 # Incident-Management bei der 418 AG
 
 | Teil | Dauer | Bis Minute |
