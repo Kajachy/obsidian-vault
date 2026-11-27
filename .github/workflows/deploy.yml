@@ -34,9 +34,11 @@ jobs:
         with:
           node-version: 24
 
-      - name: baseUrl setzen
+      - name: Config anlegen
         run: |
+          cp quartz/cli/templates/obsidian.yaml quartz.config.yaml
           sed -i 's|^\(\s*baseUrl:\).*|\1 schule.tim-decker.dev|' quartz.config.yaml
+          sed -i 's|^\(\s*locale:\).*|\1 de-DE|' quartz.config.yaml
 
       - run: npm ci
       - run: npx quartz plugin install --from-config
