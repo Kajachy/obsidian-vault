@@ -22,23 +22,24 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: jackyzha0/quartz
-          ref: v4            # ggf. an deine Quartz-Version anpassen
+          ref: v5
 
       - name: Vault als content/ einbinden
         uses: actions/checkout@v4
         with:
           path: content
-          fetch-depth: 0     # für korrekte "zuletzt geändert"-Daten
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 24
 
       - name: baseUrl setzen
         run: |
-          sed -i 's|baseUrl: ".*"|baseUrl: "schule.tim-decker.dev"|' quartz.config.ts
+          sed -i 's|^\(\s*baseUrl:\).*|\1 schule.tim-decker.dev|' quartz.config.yaml
 
       - run: npm ci
+      - run: npx quartz plugin install --from-config
       - run: npx quartz build
 
       - uses: actions/upload-pages-artifact@v3
