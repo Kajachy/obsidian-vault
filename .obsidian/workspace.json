@@ -11,10 +11,14 @@
             "id": "ea4b70834c6f01b5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -209,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d5a9e648d3cc00e",
+  "active": "ea4b70834c6f01b5",
   "lastOpenFiles": [
     "LF06/Skript.md",
     "LF06/Kundengespräch.md",
