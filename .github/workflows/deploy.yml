@@ -36,7 +36,7 @@ jobs:
 
       - name: baseUrl setzen
         run: |
-          sed -i 's|baseUrl: ".*"|baseUrl: "kajachy.github.io/obsidian-vault"|' quartz.config.ts
+          sed -i 's|baseUrl: ".*"|baseUrl: "schule.tim-decker.dev"|' quartz.config.ts
 
       - run: npm ci
       - run: npx quartz build
